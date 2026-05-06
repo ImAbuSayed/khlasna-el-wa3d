@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khlasna-el-wa3d/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Khlasna El Wa3d](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Khlasna El Wa3d](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
